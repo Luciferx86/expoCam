@@ -3,7 +3,7 @@
     "name": "ExpoCam",
     "slug": "expoCam",
     "privacy": "public",
-    "sdkVersion": "33.0.0",
+    "sdkVersion": "35.0.0",
     "android": {
       "package": "com.expoCam.expoCam"
     },
